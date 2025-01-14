@@ -45,19 +45,30 @@ python (nome_script).py
 Exemplo de Execução:
 
 Olá, seja bem-vindo! Vamos limpar seus dados?
+
 Entre com o nome do arquivo (ou caminho completo): dados.csv
+
 Aguarde por 2 segundos, verificando arquivos...
+
 Carregando arquivo CSV...
+
 Totais de linhas: 100, Totais de colunas: 5
+
 Total de duplicatas encontradas: 3
+
 Duplicatas removidas e salvas em 'duplicatas.csv'.
+
 Total de valores nulos encontrados: 10
+
 Todos os valores nulos foram preenchidos com '#Error#'!
+
 Dados limpos com sucesso! Total de linhas: 97, Total de colunas: 5
+
 Arquivo limpo salvo como Limp_arquivo.csv.
 
 Arquivos Gerados
 Limp_arquivo.csv: Este arquivo contém os dados limpos, com duplicatas removidas e valores nulos substituídos por #Error#.
+
 duplicatas.csv: Caso exista duplicatas no arquivo original, elas serão salvas nesse arquivo.
 
 
