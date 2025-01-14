@@ -81,9 +81,7 @@ Limp_arquivo.csv: Este arquivo contém os dados limpos, com duplicatas removidas
 
 duplicatas.csv: Caso exista duplicatas no arquivo original, elas serão salvas nesse arquivo.
 
----
 
-Este repositório usa o código do [linguist](https://github.com/github/linguist) para detecção de linguagens.
 
 
 
