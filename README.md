@@ -35,9 +35,13 @@ python (nome_script).py
 3. Será realizada as etapas automaticamente:
 
   * Carregamento do arquivo de dados.
+    
   *Verificação e remoção de duplicatas (se houver).
+  
   *Substituição de valores nulos por #Error#.
+  
   *Salvamento do arquivo limpo como Limp_arquivo.csv.
+  
   *Se duplicatas forem encontradas, elas vão ser salvas em um arquivo chamado duplicatas.csv.
 
 4. Ao final, o programa exibirá uma mensagem indicando o sucesso do script rodado e o nome do arquivo gerado.
