@@ -30,9 +30,10 @@ Este projeto usa as seguintes bibliotecas:
 python (nome_script).py
 
 2. O programa vai solicitar que você forneça o caminho do arquivo que deseja limpar, desde que seja .csv ou .xlsx.
-   Exemplo de entrada : Entre com o nome do arquivo (ou caminho completo): dados.csv
 
-3. Será realizada as etapas automaticamente:
+   **Exemplo de entrada : Entre com o nome do arquivo (ou caminho completo): dados.csv**
+
+4. Será realizada as etapas automaticamente:
 
   * Carregamento do arquivo de dados.
     
@@ -44,9 +45,10 @@ python (nome_script).py
   
   * Se duplicatas forem encontradas, elas vão ser salvas em um arquivo chamado duplicatas.csv.
 
+
 4. Ao final, o programa exibirá uma mensagem indicando o sucesso do script rodado e o nome do arquivo gerado.
 
-Exemplo de Execução:
+**Exemplo de Execução:**
 
 Olá, seja bem-vindo! Vamos limpar seus dados?
 
@@ -69,6 +71,7 @@ Todos os valores nulos foram preenchidos com '#Error#'!
 Dados limpos com sucesso! Total de linhas: 97, Total de colunas: 5
 
 Arquivo limpo salvo como Limp_arquivo.csv.
+---
 
 Arquivos Gerados
 Limp_arquivo.csv: Este arquivo contém os dados limpos, com duplicatas removidas e valores nulos substituídos por #Error#.
