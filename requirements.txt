@@ -1,1 +1,6 @@
+#Este projeto usa as seguintes bibliotecas#
+
+pandas
+numpy
+colorama
 
