@@ -1,4 +1,4 @@
-# ETL inical com Python
+# ETL inical de arquivos XLSX E CSV
 
 Este projeto realiza a limpeza de dados em arquivos CSV ou Excel, removendo as duplicatas e substituindo valores nulos por uma string de erro. O arquivo limpo é então salvo como um arquivo CSV.
 
