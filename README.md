@@ -27,13 +27,13 @@ Este projeto usa as seguintes bibliotecas:
 
 1 . Execute o script no terminal:
 
-python (nome_script).py
+    python (nome_script).py
 
 2. O programa vai solicitar que você forneça o caminho do arquivo que deseja limpar, desde que seja .csv ou .xlsx.
 
    **Exemplo de entrada : Entre com o nome do arquivo (ou caminho completo): dados.csv**
 
-4. Será realizada as etapas automaticamente:
+3. Será realizada as etapas automaticamente:
 
   * Carregamento do arquivo de dados.
     
