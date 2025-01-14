@@ -48,6 +48,7 @@ python (nome_script).py
 
 4. Ao final, o programa exibirá uma mensagem indicando o sucesso do script rodado e o nome do arquivo gerado.
 
+---
 **Exemplo de Execução:**
 
 Olá, seja bem-vindo! Vamos limpar seus dados?
@@ -71,9 +72,11 @@ Todos os valores nulos foram preenchidos com '#Error#'!
 Dados limpos com sucesso! Total de linhas: 97, Total de colunas: 5
 
 Arquivo limpo salvo como Limp_arquivo.csv.
+
 ---
 
-Arquivos Gerados
+**Arquivos Gerados**:
+
 Limp_arquivo.csv: Este arquivo contém os dados limpos, com duplicatas removidas e valores nulos substituídos por #Error#.
 
 duplicatas.csv: Caso exista duplicatas no arquivo original, elas serão salvas nesse arquivo.
